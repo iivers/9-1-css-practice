@@ -1,0 +1,16 @@
+body {
+  background-color: pink;
+}
+* {
+  color: black;
+}
+h1 {
+  color: blue;
+}
+h2 {
+  color: purple;
+}
+.animal {
+  color: brown;
+  font-family: 'Patrick Hand', cursive;
+}
